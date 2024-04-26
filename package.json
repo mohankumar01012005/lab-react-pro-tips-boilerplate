@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.21.1",
+    "react-toastify": "^10.0.5",
+    "toastify": "^2.0.1"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.10"
+  }
+}
